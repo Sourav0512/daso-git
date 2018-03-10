@@ -4,6 +4,6 @@ https://chris.beams.io/posts/git-commit/
 
 ok i will do that 
 
-switching to test1
+switching to test1 branch.
 
 
