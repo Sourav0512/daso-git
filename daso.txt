@@ -1,1 +1,5 @@
-some random stuff here to learn git ... hola
+Using CATALINA_BASE:   "F:\Softwares\apache-tomcat-9.0.0.M26"
+Using CATALINA_HOME:   "F:\Softwares\apache-tomcat-9.0.0.M26"
+Using CATALINA_TMPDIR: "F:\Softwares\apache-tomcat-9.0.0.M26\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jre1.8.0_121"
+Using CLASSPATH:       "F:\Softwares\apache-tomcat-9.0.0.M26\bin\bootstrap.jar;F:\Softwares\apache-tomcat-9.0.0.M26\bin\tomcat-juli.jar"
